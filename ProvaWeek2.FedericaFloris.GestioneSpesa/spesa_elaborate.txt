@@ -1,0 +1,4 @@
+8/25/2022;Vitto;Ristorante;APPROVATA;Manager;14
+8/25/2022;Alloggio;Hotel;APPROVATA;Operational Manager;800
+8/25/2022;Altro;Beni di prima necessità;APPROVATA;Operational Manager;50
+8/25/2022;Viaggio;aereo;RESPINTA;-;-

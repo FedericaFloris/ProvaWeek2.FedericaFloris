@@ -1,0 +1,4 @@
+﻿2022/08/25;Vitto;Ristorante;20.0
+2022/08/25;Alloggio;Hotel;800.0
+2022/08/25;Altro;Beni di prima necessità;500.0
+2022/08/25;Viaggio;aereo;5000.0
